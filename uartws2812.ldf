@@ -12,6 +12,27 @@
         <Source name="rtl/machxo2/platform.sv" type="Verilog" type_short="Verilog">
             <Options/>
         </Source>
+        <Source name="rtl/por.sv" type="Verilog" type_short="Verilog">
+            <Options/>
+        </Source>
+        <Source name="rtl/machxo2/pll.v" type="Verilog" type_short="Verilog">
+            <Options/>
+        </Source>
+        <Source name="rtl/ws2812.sv" type="Verilog" type_short="Verilog">
+            <Options/>
+        </Source>
+        <Source name="rtl/machxo2/ram.v" type="Verilog" type_short="Verilog">
+            <Options/>
+        </Source>
+        <Source name="rtl/receive.sv" type="Verilog" type_short="Verilog">
+            <Options/>
+        </Source>
+        <Source name="rtl/send.sv" type="Verilog" type_short="Verilog">
+            <Options/>
+        </Source>
+        <Source name="impl1/impl1.xcf" type="Programming Project File" type_short="Programming">
+            <Options/>
+        </Source>
         <Source name="uartws2812.lpf" type="Logic Preference" type_short="LPF">
             <Options/>
         </Source>

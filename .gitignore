@@ -1,0 +1,8 @@
+*.vcd
+work
+*.html
+*.dir
+*.xml
+*.stamp
+impl1
+transcript
